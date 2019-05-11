@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702833440228",
+    "firebase_url": "https://evrekaapp.firebaseio.com",
+    "project_id": "evrekaapp",
+    "storage_bucket": "evrekaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702833440228:android:e63170533cece22f",
+        "android_client_info": {
+          "package_name": "com.example.evrekaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702833440228-6dks8pdlek6s5geko878cvj8ki55rgs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURTLVAFPcTTyVPxffIFamoewe6IKeZiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702833440228-6dks8pdlek6s5geko878cvj8ki55rgs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
